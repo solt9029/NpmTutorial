@@ -1,0 +1,11 @@
+{
+  "name": "solt9029-npm-tutorial",
+  "version": "2.0.0",
+  "description": "this is tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenshi Shiode",
+  "license": "ISC"
+}
